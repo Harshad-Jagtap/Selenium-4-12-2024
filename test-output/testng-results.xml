@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-04T02:24:37 IST" name="Default suite" finished-at="2024-12-04T02:24:58 IST" duration-ms="21042">
+    <groups>
+    </groups>
+    <test started-at="2024-12-04T02:24:37 IST" name="Default test" finished-at="2024-12-04T02:24:58 IST" duration-ms="21042">
+      <class name="Organization.TroubleTicket">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:Organization.TroubleTicket@7c7a06ec]" started-at="2024-12-04T02:24:37 IST" name="preCondition" finished-at="2024-12-04T02:24:41 IST" duration-ms="4065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="login()[pri:0, instance:Organization.TroubleTicket@7c7a06ec]" started-at="2024-12-04T02:24:41 IST" name="login" finished-at="2024-12-04T02:24:44 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="TroubTicket()[pri:0, instance:Organization.TroubleTicket@7c7a06ec]" started-at="2024-12-04T02:24:44 IST" name="TroubTicket" finished-at="2024-12-04T02:24:54 IST" duration-ms="10659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TroubTicket -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Organization.TroubleTicket@7c7a06ec]" started-at="2024-12-04T02:24:54 IST" name="logout" finished-at="2024-12-04T02:24:58 IST" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Organization.TroubleTicket -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
